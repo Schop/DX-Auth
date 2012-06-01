@@ -1,10 +1,9 @@
-DX-Auth
+DX-Auth - CodeIgniter Auth Library
 =======
 
 Note
 ====
-Not ready for Version 2 or above.
-
+This was tested only in version 2 below.
 
 Introduction
 ====
