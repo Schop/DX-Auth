@@ -1,8 +1,13 @@
 DX-Auth
 =======
 
+Note
+====
+Not ready for Version 2 or above.
+
+
 Introduction
-===
+====
 
 DX Auth is an authentication library for Code Igniter. It’s goal to enable you to easily include secure and easy to use authentication library to your project, while giving you the flexibility to choose from simple authentication system to full fledged authentication system.
 
